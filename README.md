@@ -1,0 +1,1 @@
+This project generates personalized certificates automatically by taking a PDF template, a list of names, a custom font, and specified X/Y coordinates. Each name is placed on the template at the given position, and the script outputs individual certificate PDFs for every person.
