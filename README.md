@@ -16,6 +16,8 @@ Adjustable text coordinates.
 Generates certificates in bulk.
 Saves all output certificates automatically.
 
+
+
 📂 How It Works
 
 Add your template to the project folder.
@@ -24,11 +26,15 @@ Choose your font
 Set the coordinates for the name placement.
 Run the script — certificates for all participants will be generated.
 
+
+
 🛠️ Technologies Used
 
 Python
 Pillow (PIL) for image editing
 ReportLab (optional for PDF handling)
+
+
 
 ▶️ Run the Project
 
